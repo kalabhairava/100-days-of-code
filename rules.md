@@ -1,10 +1,15 @@
 # Rules of the 100 Days Of Code Challenge
 
-## Main Commitment
+## Main Commitment for Round 1
 ### *I will code for at least an hour every day for the next 100 days.*
+### **Things that I'll focus on accomplishing:**
+1. [JavaScript 30 Challenge](https://github.com/wesbos/JavaScript30)
+2. ES6
+3. ES7
+4. Flexbox
 
 #### Start Date
-June 25th, 2016. [PUT YOUR DATE HERE]
+25 October, 2017.
 
 ## Additional Rules
 1. I will tweet about my progress every day -> using the hashtag #100DaysOfCode
